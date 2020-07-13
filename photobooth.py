@@ -1,4 +1,4 @@
-# PHOTOBOOTH PROGRAM (see: https://github/bhontz/GSOCraspi/code/photobooth.py)
+# PHOTOBOOTH PROGRAM (see: https://github/GSOCSTEMPatrol/photobooth.py)
 import os, pygame
 from datetime import datetime
 from picamera import PiCamera
