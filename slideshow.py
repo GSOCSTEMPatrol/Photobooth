@@ -1,4 +1,4 @@
-# SLIDESHOW PROGRAM (see: https://github/bhontz/GSOCraspi/code/slideshow.py)
+# SLIDESHOW PROGRAM (see: https://github/GSOCSTEMPatrol/slideshow.py)
 import os, pygame, glob
 from datetime import datetime
 
